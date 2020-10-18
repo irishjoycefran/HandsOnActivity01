@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.exe.config
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.exe
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.pdb
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.frmConfirmation.resources
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.frmRegistration.resources
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.Properties.Resources.resources
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.exe
+C:\Users\HP\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.pdb
